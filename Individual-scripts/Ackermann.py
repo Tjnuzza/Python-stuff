@@ -1,4 +1,4 @@
-'''Tom Nuzzarello
+'''Tjnuzza
 Ackermann function experiment
 This is a non-primitive recursive mathematical function
 Like in C++, this function exceeds max recursion very easily'''
