@@ -1,6 +1,6 @@
 '''
 Advantage/disadvantage calculation for D&D fifth edition
-By Tom
+By Tjnuzza
 '''
 
 from random import randint
