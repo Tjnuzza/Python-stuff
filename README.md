@@ -8,5 +8,5 @@ Every script is Python 3, and up to now all of them are console applications.
 
 ## Update information
 
-As of 21 July 2019 there are only individual scripts in this file,
+As of 27 July 2019 there are only individual scripts in this repository,
 and no dependencies or third party libraries should be necessary.
