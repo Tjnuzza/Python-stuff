@@ -37,7 +37,7 @@ def VariableFizzBuzz(num):
 '''Now our values need to be defined only once
 But what if we want to add another condition
 Like "Fuzz" for numbers divisible by 7?
-Then instead of having four possible outputs, we have seven (I think)
+Then instead of having four possible outputs, we have eight
 So what can we do? Let's concatenate strings'''
 
 def ConcatenateFizzBuzz(num):
@@ -53,7 +53,7 @@ def ConcatenateFizzBuzz(num):
 
 '''This allows us to add another condition if we so desire
 And it should work as long as that final condition is always last, but it still looks a little repetitive
-One last one: Let's define our values in two arrays, then we can loop through them to get our values'''
+One last one: Let's define our values in a dictionary, then we can loop through it to get our values'''
 
 def ArrayFizzBuzz(num):
     Values = {
@@ -73,4 +73,4 @@ def ArrayFizzBuzz(num):
     #End ArrayFizzBuzz
 
 # This last one let's us add a single key-value pair to create more conditions
-# It's a bit complicated to whiteboard, but The best way to handle it in the time I care to spend on it
+# It's a bit complicated to whiteboard, but it's the best way to handle it in the time I care to spend on it
